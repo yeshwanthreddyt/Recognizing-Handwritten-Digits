@@ -1,0 +1,9 @@
+Recognizing Handwritten Digits with Scikit-Learn
+
+Data analysis can be described as a process consisting of several steps in which the raw data are transformed and processed in order to produce data visualizations and make predictions.
+
+Recognizing handwritten text is a problem that can be traced back to the first automatic machines that needed to recognize individual characters in handwritten documents. Think about, for example, the ZIP codes on letters at the post office and the automation needed to recognize these five digits. Perfect recognition of these codes is necessary in order to sort mail automatically and efficiently. Included among the other applications that may come to mind is OCR (Optical Character Recognition) software
+
+Scikit-Learn is a library for Python that contains numerous useful algorithms that can easily be implemented and altered for the purpose of classification and other machine learning tasks. For any help related to Scikit-learn visit website (http://scikit-learn.org/)
+
+
